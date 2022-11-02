@@ -1,3 +1,3 @@
-#Jogo da memória
+# Jogo da memória
 
-Jogo da memória do Snoopy utilizando ##JS, CSS e HTML##.
+Jogo da memória do Snoopy utilizando **JavaScript, CSS e HTML**.
